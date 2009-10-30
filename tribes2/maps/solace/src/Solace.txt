@@ -1,0 +1,15 @@
+Solace
+-------
+A serverside siege map by powdahound.
+
+How to install:
+Put the Solace.vl2 file anywhere in your Tribes 2 "base" folder. Players do NOT have to download this map in order to play it.
+
+Gameplay:
+One forcefield generator protects two out of three gens inside the base. All three of these gens must be destroyed to access the switch. Offense has no vehicles because of the very short travel to the defenders'
+base. 
+
+Thanks to:
+*Fnord*][V][ike - first tester. helped me with the layout of gens and overall structure.
+Many more *Fnord* and wow! - Further gameplay testing.
+Alingis, Red Shifter - Testing
